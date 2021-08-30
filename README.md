@@ -2,7 +2,7 @@
 
 Exercices d'algorithmique (voir les enoncés pour plus de détails)
 
-Dans un algorithme déclarer des variables de types entier, réel, booléen, chaine de
-caractère affecter leurs des valeurs
+J'ai essayé de faire le travail en utilisant que le html comme indiqué 
+dans les consignes.
 
-NB : Exercice à faire sur une Page Html
+NB : Exercices à faire sur une Page Html
